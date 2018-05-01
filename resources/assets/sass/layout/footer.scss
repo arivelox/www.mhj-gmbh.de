@@ -1,0 +1,12 @@
+#footer {
+  iframe {
+    max-height: 180px;
+  }
+  .text-huge {
+    font-size: 100px;
+
+    @include media-breakpoint-up(xs) {
+      line-height: 1;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+#leistungen {
+  background-image: url(../images/317a0d814d0fd492098a0fc74e8b57ac_billionphotos924200min.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: 105px 0;
+
+
+  @include media-breakpoint-up(md) {
+    background-position: center center;
+  }
+}
