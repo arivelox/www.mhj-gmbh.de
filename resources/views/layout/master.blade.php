@@ -20,11 +20,6 @@
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
     >
     <meta name="csrf-token" content="{{csrf_token()}}"/>
-
-    <link
-            href="{{asset('images/575c0a608d178d6f4899509a3ff567b0_favicon.gif')}}"
-            rel="icon" type="image/x-icon"
-    />
     <link rel="stylesheet" href="{{mix('css/app.css')}}"/>
     @yield('head')
 </head>
