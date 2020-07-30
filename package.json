@@ -16,7 +16,7 @@
     "@fortawesome/fontawesome-free-solid": "^5.0.10",
     "bootstrap": "^4.1.0",
     "cross-env": "^5.1.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "laravel-mix": "^2.1.11",
     "popper.js": "^1.14.3",
     "ajv": "^6.4.0"
